@@ -12,8 +12,7 @@ def get_neighbors(x: int, y: int, max_length: int) -> list[tuple[int, int]]:
     # diffs = [down, up, left, right, down-right, up-right, down-left, up-left]
     diffs = [(0, 1), (0, -1), (-1, 0), (1, 0), (1, 1), (1, -1), (-1, 1), (-1, -1)]
     neighbors = list(map(lambda diff: (x + diff[0], y + diff[1]), diffs))
-    neighbors = list(filter(
-        lambda coord: (0 <= coord[0] < max_length) and (0 <= coord[1] < max_length), neighbors))
+    neighbors = list(filter(lambda coord: (0 <= coord[0] < max_length) and (0 <= coord[1] < max_length), neighbors))
 
     return neighbors
 
