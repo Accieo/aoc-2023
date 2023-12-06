@@ -10,7 +10,7 @@
 | [Day 3](https://github.com/Accieo/aoc-2023/blob/main/main/day03.py) | :star: :star: |
 | [Day 4](https://github.com/Accieo/aoc-2023/blob/main/main/day04.py) | :star: :star: |
 | [Day 5](https://github.com/Accieo/aoc-2023/blob/main/main/day05.py) | :star: :soon: |
-| [Day 6](https://github.com/Accieo/aoc-2023/blob/main/main/day06.py) | :soon: :soon: |
+| [Day 6](https://github.com/Accieo/aoc-2023/blob/main/main/day06.py) | :star: :star: |
 | [Day 7](https://github.com/Accieo/aoc-2023/blob/main/main/day07.py) | :soon: :soon: |
 | [Day 8](https://github.com/Accieo/aoc-2023/blob/main/main/day08.py) | :soon: :soon: |
 | [Day 9](https://github.com/Accieo/aoc-2023/blob/main/main/day09.py) | :soon: :soon: |
